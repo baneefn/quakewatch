@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039438101500",
+    "project_id": "quakewatch-527c6",
+    "storage_bucket": "quakewatch-527c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039438101500:android:6e58675b9d256923fa9079",
+        "android_client_info": {
+          "package_name": "com.example.quakewatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0sdC8uRAYkiamtmLhdApxgmh9l27hGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
